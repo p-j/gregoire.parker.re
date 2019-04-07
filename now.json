@@ -8,5 +8,6 @@
       "use": "@now/static-build",
       "config": { "distDir": "public" }
     }
-  ]
+  ],
+  "regions": ["cdg"]
 }
