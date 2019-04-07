@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "gregoire.parker.re",
+  "alias": "gregoire.parker.re",
   "builds": [
     {
       "src": "package.json",
