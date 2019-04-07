@@ -1,6 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Grégoire Parker',
+    title: 'Grégoire Parker - Life Coach',
+    description: 'Grégoire Parker, coaching personnel. Coach certifié ICF',
+    keywords:
+      'coach, coaching, life coach, coaching personnel, coach de vie, coach certifié, grégoire parker',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
